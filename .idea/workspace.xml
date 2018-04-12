@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb4fa265-91e2-4cf3-ba3f-ea68ec7f93ca" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/mysite/images/huts.png" afterPath="$PROJECT_DIR$/mysite/images/huts.png" />
-      <change beforePath="$PROJECT_DIR$/mysite/images/projects.png" afterPath="$PROJECT_DIR$/mysite/images/projects.png" />
-      <change beforePath="$PROJECT_DIR$/mysite/images/projects.psd" afterPath="$PROJECT_DIR$/mysite/images/projects.psd" />
-      <change beforePath="$PROJECT_DIR$/mysite/images/projectsflat.psd" afterPath="$PROJECT_DIR$/mysite/images/projectsflat.psd" />
-      <change beforePath="$PROJECT_DIR$/mysite/index.html" afterPath="$PROJECT_DIR$/mysite/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,12 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="91" column="43" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="43" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysite/assets/js/jquery.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="1" column="2680" lean-forward="false" selection-start-line="1" selection-start-column="2680" selection-end-line="1" selection-end-column="2680" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,6 +80,8 @@
       <find>Projects</find>
       <find>contact</find>
       <find>icon</find>
+      <find>.png</find>
+      <find>.jpg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,13 +146,6 @@
               <item name="personalsitefromtemplate" type="462c0819:PsiDirectoryNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalsitefromtemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalsitefromtemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,12 +187,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523551590908</updated>
       <workItem from="1523551592092" duration="8132000" />
-      <workItem from="1523569255530" duration="3772000" />
+      <workItem from="1523569255530" duration="4098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11904000" />
+    <option name="totallyTimeSpent" value="12230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -253,9 +254,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="91" column="43" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/assets/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1" column="2680" lean-forward="false" selection-start-line="1" selection-start-column="2680" selection-end-line="1" selection-end-column="2680" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
